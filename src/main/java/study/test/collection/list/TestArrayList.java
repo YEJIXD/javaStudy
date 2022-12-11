@@ -33,4 +33,24 @@ public class TestArrayList {
     public void printList(){
         System.out.println("list : " + list);
     }
+
+
+    /*
+    * 동기화 된 컬렉션
+       · 대부분의 컬렉션 클래스들은 싱글 스레드 환경에서 사용할 수 있도록 설계
+       · Multi-Thread 환경에서 무결성을 보장하지 못함
+       · Vector와 Hashtable은 동기화된 메서드로 구성되어 있어 멀티 스레드 환경에서 안전하게 사용 가능
+       · 싱글 스레드 환경에 맞게 설계된 컬렉션 객체들을 동기화된 메소드로 래핑할 수 있도록 Collections가 메소드들을 제공한다.
+
+
+    * Collections의 동기화 래핑 메소드
+       · List<T>    : synchronizedList(List<T> list)    : List를 동기화된 List로 return
+       · Map<K, V>  : synchronizedMap(Map<K, V> map)    : Map을 동기화된 Map으로 return
+       · Set<T>     : synchronizedSet(Set<T> set)       : Set을 동기화된 Set으로 return
+
+    * Collections의 동기화 객체 생성
+       · List<T> syncList = Collections.synchronizedList(list);
+       · Map<K, V> syncMap = Collections.synchronizedMap(map);
+       · Set<T> syncSet = Collections.synchronizedSet(set);
+       *     * */
 }
