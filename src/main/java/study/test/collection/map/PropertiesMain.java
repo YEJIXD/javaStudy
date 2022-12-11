@@ -5,9 +5,9 @@ public class PropertiesMain {
         StudentManager sm = new StudentManager();
 
         // properties 데이터 삽입
-        sm.propertyInsert(new PropertiesStudent("1", "홍길동", 80));
-        sm.propertyInsert(new PropertiesStudent("2", "김유신", 60));
-        sm.propertyInsert(new PropertiesStudent("3ㅇㅇ", "신사임당", 95));
+        sm.propertyInsert(new Student("1", "홍길동", 80));
+        sm.propertyInsert(new Student("2", "김유신", 60));
+        sm.propertyInsert(new Student("3", "신사임당", 95));
 
         // properties 데이터 저장
         sm.propertyStore();

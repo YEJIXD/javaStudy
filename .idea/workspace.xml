@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1eae7b0-dfe3-4d51-8e2b-ba37b11885f2" name="Changes" comment="1211_Collection-List/Set">
+    <list default="true" id="c1eae7b0-dfe3-4d51-8e2b-ba37b11885f2" name="Changes" comment="1211_Collection-Map, Properties">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/test/collection/map/PropertiesMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/test/collection/map/PropertiesMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/test/collection/map/PropertiesStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/test/collection/map/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/test/collection/map/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/test/collection/map/StudentManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +48,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -163,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670741633079</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1211_Collection-Map, Properties">
+      <created>1670744566965</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670744566965</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,7 +191,8 @@
     <MESSAGE value="1203_Interface, Abstract Class,Method" />
     <MESSAGE value="1204_Interface, Abstract Example" />
     <MESSAGE value="1211_Collection-List/Set" />
-    <option name="LAST_COMMIT_MESSAGE" value="1211_Collection-List/Set" />
+    <MESSAGE value="1211_Collection-Map, Properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="1211_Collection-Map, Properties" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
