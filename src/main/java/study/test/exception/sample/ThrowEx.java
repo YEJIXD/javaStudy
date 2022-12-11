@@ -1,4 +1,4 @@
-package study.test.exception;
+package study.test.exception.sample;
 
 public class ThrowEx {
     String str = null;

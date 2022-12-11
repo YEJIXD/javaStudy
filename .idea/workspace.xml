@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1eae7b0-dfe3-4d51-8e2b-ba37b11885f2" name="Changes" comment="1211_Exception ~ing">
+    <list default="true" id="c1eae7b0-dfe3-4d51-8e2b-ba37b11885f2" name="Changes" comment="1211_Exception(try~catch, throws)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/test/exception/TestException1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/test/exception/TestException1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/test/exception/ExMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/test/exception/ExMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/test/exception/ThrowEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/test/exception/sample/ThrowEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/test/exception/ThrowExMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/test/exception/ThrowExMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,20 @@
       <recent name="study.test.math" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestException1">
+  <component name="RunManager" selected="Application.ExMain">
+    <configuration name="ExMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.test.exception.ExMain" />
+      <module name="dailyStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.test.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study.test.collection.map.Main" />
       <module name="dailyStudy.main" />
@@ -90,20 +105,7 @@
       <module name="dailyStudy.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.test.exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.test.collection.set.TestTreeSet" />
-      <module name="dailyStudy.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.test.collection.set.*" />
+          <option name="PATTERN" value="study.test.exception.sample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExMain" />
         <item itemvalue="Application.TestException1" />
         <item itemvalue="Application.PropertiesMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.study.test.collection.set.Main" />
-        <item itemvalue="Application.TestTreeSet" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670748650056</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1211_Exception(try~catch, throws)">
+      <created>1670749349810</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670749349810</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,7 +231,8 @@
     <MESSAGE value="1211_Collection - Stack, Queue / Synchronied Collections" />
     <MESSAGE value="1211_Generic" />
     <MESSAGE value="1211_Exception ~ing" />
-    <option name="LAST_COMMIT_MESSAGE" value="1211_Exception ~ing" />
+    <MESSAGE value="1211_Exception(try~catch, throws)" />
+    <option name="LAST_COMMIT_MESSAGE" value="1211_Exception(try~catch, throws)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
