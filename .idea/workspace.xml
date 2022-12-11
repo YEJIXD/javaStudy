@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1eae7b0-dfe3-4d51-8e2b-ba37b11885f2" name="Changes" comment="1203_Interface, Abstract Class,Method">
+    <list default="true" id="c1eae7b0-dfe3-4d51-8e2b-ba37b11885f2" name="Changes" comment="1204_Interface, Abstract Example">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,23 +38,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.Test2">
-    <configuration name="AbstractEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.inherit.sample.AbstractEx" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="study.test.collection.set" />
+      <recent name="study.test.random" />
+      <recent name="study.test.wrapper" />
+      <recent name="study.test.math" />
+      <recent name="study.test.str" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.study.test.collection.set.Main">
+    <configuration name="TestTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.test.collection.set.TestTreeSet" />
       <module name="dailyStudy.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.inherit.sample.*" />
+          <option name="PATTERN" value="study.test.collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <configuration name="study.test.collection.list.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.test.collection.list.Main" />
       <module name="dailyStudy.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="study.test.collection.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.inherit.sample.Test1" />
+    <configuration name="study.test.collection.set.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.test.collection.set.Main" />
       <module name="dailyStudy.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.inherit.sample.*" />
+          <option name="PATTERN" value="study.test.collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.inherit.sample.Test2" />
+    <configuration name="study.test.math.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.test.math.Main" />
       <module name="dailyStudy.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.inherit.sample.*" />
+          <option name="PATTERN" value="study.test.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.inherit.sample.Test2" />
+    <configuration name="study.test.random.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.test.random.Main" />
       <module name="dailyStudy.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.inherit.sample.*" />
+          <option name="PATTERN" value="study.test.random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test2 (1)" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.AbstractEx" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.study.test.collection.set.Main" />
+        <item itemvalue="Application.TestTreeSet" />
+        <item itemvalue="Application.study.test.collection.list.Main" />
+        <item itemvalue="Application.study.test.math.Main" />
+        <item itemvalue="Application.study.test.random.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670081588287</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1204_Interface, Abstract Example">
+      <created>1670157753018</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670157753018</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,7 +172,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1203_Interface, Abstract Class,Method" />
-    <option name="LAST_COMMIT_MESSAGE" value="1203_Interface, Abstract Class,Method" />
+    <MESSAGE value="1204_Interface, Abstract Example" />
+    <option name="LAST_COMMIT_MESSAGE" value="1204_Interface, Abstract Example" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
