@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1eae7b0-dfe3-4d51-8e2b-ba37b11885f2" name="Changes" comment="1211_Collection - Properties Success">
+    <list default="true" id="c1eae7b0-dfe3-4d51-8e2b-ba37b11885f2" name="Changes" comment="1211_Collection - Stack, Queue / Synchronied Collections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/test/collection/list/TestArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/test/collection/list/TestArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670745530637</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1211_Collection - Stack, Queue / Synchronied Collections">
+      <created>1670746406650</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670746406650</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,7 +204,8 @@
     <MESSAGE value="1211_Collection-List/Set" />
     <MESSAGE value="1211_Collection-Map, Properties" />
     <MESSAGE value="1211_Collection - Properties Success" />
-    <option name="LAST_COMMIT_MESSAGE" value="1211_Collection - Properties Success" />
+    <MESSAGE value="1211_Collection - Stack, Queue / Synchronied Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="1211_Collection - Stack, Queue / Synchronied Collections" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
