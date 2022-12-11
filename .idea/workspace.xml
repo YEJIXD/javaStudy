@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1eae7b0-dfe3-4d51-8e2b-ba37b11885f2" name="Changes" comment="1204_Interface, Abstract Example">
+    <list default="true" id="c1eae7b0-dfe3-4d51-8e2b-ba37b11885f2" name="Changes" comment="1211_Collection-List/Set">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,14 +50,40 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="study.test.collection.map" />
       <recent name="study.test.collection.set" />
       <recent name="study.test.random" />
       <recent name="study.test.wrapper" />
       <recent name="study.test.math" />
-      <recent name="study.test.str" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.study.test.collection.set.Main">
+  <component name="RunManager" selected="Application.PropertiesMain">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.test.collection.map.Main" />
+      <module name="dailyStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.test.collection.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertiesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.test.collection.map.PropertiesMain" />
+      <module name="dailyStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.test.collection.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study.test.collection.set.TestTreeSet" />
       <module name="dailyStudy.main" />
@@ -97,39 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="study.test.math.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.test.math.Main" />
-      <module name="dailyStudy.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.test.math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="study.test.random.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.test.random.Main" />
-      <module name="dailyStudy.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.test.random.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PropertiesMain" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.study.test.collection.set.Main" />
         <item itemvalue="Application.TestTreeSet" />
         <item itemvalue="Application.study.test.collection.list.Main" />
-        <item itemvalue="Application.study.test.math.Main" />
-        <item itemvalue="Application.study.test.random.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670157753018</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1211_Collection-List/Set">
+      <created>1670741633079</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670741633079</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,7 +180,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1203_Interface, Abstract Class,Method" />
     <MESSAGE value="1204_Interface, Abstract Example" />
-    <option name="LAST_COMMIT_MESSAGE" value="1204_Interface, Abstract Example" />
+    <MESSAGE value="1211_Collection-List/Set" />
+    <option name="LAST_COMMIT_MESSAGE" value="1211_Collection-List/Set" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
