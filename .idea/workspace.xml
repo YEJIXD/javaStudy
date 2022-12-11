@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1eae7b0-dfe3-4d51-8e2b-ba37b11885f2" name="Changes" comment="1211_Collection - Stack, Queue / Synchronied Collections">
+    <list default="true" id="c1eae7b0-dfe3-4d51-8e2b-ba37b11885f2" name="Changes" comment="1211_Generic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
       <recent name="study.test.math" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PropertiesMain">
+  <component name="RunManager" selected="Application.TestException1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study.test.collection.map.Main" />
       <module name="dailyStudy.main" />
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.test.collection.set.TestTreeSet" />
+    <configuration name="TestException1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.test.exception.TestException1" />
       <module name="dailyStudy.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.test.collection.set.*" />
+          <option name="PATTERN" value="study.test.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="study.test.collection.list.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.test.collection.list.Main" />
+    <configuration name="TestTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.test.collection.set.TestTreeSet" />
       <module name="dailyStudy.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.test.collection.list.*" />
+          <option name="PATTERN" value="study.test.collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestException1" />
         <item itemvalue="Application.PropertiesMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.study.test.collection.set.Main" />
         <item itemvalue="Application.TestTreeSet" />
-        <item itemvalue="Application.study.test.collection.list.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670746406650</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1211_Generic">
+      <created>1670747608031</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670747608032</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,7 +212,8 @@
     <MESSAGE value="1211_Collection-Map, Properties" />
     <MESSAGE value="1211_Collection - Properties Success" />
     <MESSAGE value="1211_Collection - Stack, Queue / Synchronied Collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="1211_Collection - Stack, Queue / Synchronied Collections" />
+    <MESSAGE value="1211_Generic" />
+    <option name="LAST_COMMIT_MESSAGE" value="1211_Generic" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
