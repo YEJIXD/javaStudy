@@ -20,7 +20,8 @@ package study.test.exception;
 
    · 예외 처리(Exception Handling) 구문
      1) 예외를 직접 처리할 때 사용하는 try ~ catch ~ finally
-     2)
+     2) 예외를 이전 호출 위치로 넘기는 throws 구문
+     3) 자동으로 close 처리를 해주는 try with resource문
 * */
 public class TestException1 {
     public static void main(String[] args){
@@ -30,7 +31,7 @@ public class TestException1 {
             for(int i = 0; i<arr.length; i++){
                 arr[i] = i;
             }
-            
+
             for(int i = 0; i < arr.length; i++){
                 System.out.println("arr[i] : " + arr[i]);
             }
