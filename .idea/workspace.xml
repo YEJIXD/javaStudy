@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1eae7b0-dfe3-4d51-8e2b-ba37b11885f2" name="Changes" comment="221217_IO(입출력 - ByteStream, InputStream/OutputStream)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/test/io/ByteStream.java" afterDir="false" />
+    <list default="true" id="c1eae7b0-dfe3-4d51-8e2b-ba37b11885f2" name="Changes" comment="221217_IO(입출력 - 바이트 보조 스트림)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -241,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671279930349</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="221217_IO(입출력 - 바이트 보조 스트림)">
+      <created>1671284955959</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1671284955959</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,7 +276,8 @@
     <MESSAGE value="221217_IO(입출력 - Stream)" />
     <MESSAGE value="221217_IO(입출력 - File Class)" />
     <MESSAGE value="221217_IO(입출력 - ByteStream, InputStream/OutputStream)" />
-    <option name="LAST_COMMIT_MESSAGE" value="221217_IO(입출력 - ByteStream, InputStream/OutputStream)" />
+    <MESSAGE value="221217_IO(입출력 - 바이트 보조 스트림)" />
+    <option name="LAST_COMMIT_MESSAGE" value="221217_IO(입출력 - 바이트 보조 스트림)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
