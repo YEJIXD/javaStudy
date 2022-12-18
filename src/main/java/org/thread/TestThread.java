@@ -1,4 +1,4 @@
-package org.network;
+package org.thread;
 
 public class TestThread {
     public static void main(String[] args){

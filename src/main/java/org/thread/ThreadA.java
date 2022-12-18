@@ -1,4 +1,4 @@
-package org.network;
+package org.thread;
 
 public class ThreadA implements Runnable{
     /*

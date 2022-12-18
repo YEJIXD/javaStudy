@@ -1,4 +1,4 @@
-package org.network;
+package org.thread;
 
 public class ThreadB implements Runnable{
     @Override

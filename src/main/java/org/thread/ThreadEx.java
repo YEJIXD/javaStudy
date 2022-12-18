@@ -1,4 +1,4 @@
-package org.network;
+package org.thread;
 
 public class ThreadEx extends Thread{       // Thread 클래스 상속
     /*
